@@ -1,0 +1,19 @@
+{
+    "name": "FluidCrowd.Demo",
+    "rootNamespace": "FluidCrowd.Demo",
+    "references": [
+        "FluidCrowd",
+        "Unity.Burst",
+        "Unity.Collections",
+        "Unity.Mathematics"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": false,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
