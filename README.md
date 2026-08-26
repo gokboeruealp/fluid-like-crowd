@@ -2,6 +2,8 @@
 
 A dense crowd that does not walk through itself, and six things you can drop on it while it does.
 
+try: [Fluid Like Crowd Tech Demo][itch.io]
+
 Unity 6, URP, Burst and the job system. One scene, press play.
 
 ![the crowd at a chokepoint](screenshot.png)
@@ -88,3 +90,4 @@ defence-phase crowd of a tower defence I am building, pulled out into something 
 read. The solver files are the shipping ones.
 
 [orc]: https://store.steampowered.com/app/4594150/Sir_We_Have_an_Orc_Problem/
+[itch.io]: https://gokboerue.itch.io/fluid-like-crowd-unity-open-source
