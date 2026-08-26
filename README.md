@@ -82,5 +82,9 @@ of it, and the population quietly plateaus at half of what you asked for.
 
 ## Where it came from
 
-This is the defence-phase crowd out of a tower defence I am building, pulled out into something
-small enough to read. The solver files are the shipping ones.
+I started this after seeing [Sir, We Have an Orc Problem][orc], to find out whether I could
+make a crowd that size hold together rather than smear through itself. It is now the
+defence-phase crowd of a tower defence I am building, pulled out into something small enough to
+read. The solver files are the shipping ones.
+
+[orc]: https://store.steampowered.com/app/4594150/Sir_We_Have_an_Orc_Problem/
